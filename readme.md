@@ -47,5 +47,4 @@ This project is under [MIT License](#) - see the LICENSE.md file for details.
 ## Acknowledgments
 
 - Pygame documentation for providing valuable resources.
-- OpenAI's GPT-3 for assisting with code and documentation.
 - The original Flappy Bird game for the inspiration.
